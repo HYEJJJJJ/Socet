@@ -1,0 +1,40 @@
+C:\Users\nova\source\repos\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+C:\Users\nova\source\repos\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+C:\Users\nova\source\repos\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+C:\Users\nova\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.AssemblyReference.cache
+C:\Users\nova\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+C:\Users\nova\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+C:\Users\nova\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\nova\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\nova\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+C:\Users\nova\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.pdb
+C:\Users\user\source\repos\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+C:\Users\user\source\repos\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+C:\Users\user\source\repos\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+C:\Users\user\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+C:\Users\user\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+C:\Users\user\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+C:\Users\user\source\repos\ServerForm\ServerForm\obj\Debug\ServerForm.pdb
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+C:\Users\user\Desktop\박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.pdb
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.AssemblyReference.cache
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+C:\Users\hy685\Downloads\노바테크 박혜정\1. Socet Programming\ServerForm\ServerForm\obj\Debug\ServerForm.pdb
